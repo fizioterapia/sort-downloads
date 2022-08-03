@@ -1,0 +1,41 @@
+{
+    "downloadsPath": "/home/fizi/Downloads/",
+    "directories": [
+        {
+            "name": "",
+            "extensions": []
+        },
+        {
+            "name": "java",
+            "extensions": ["jar"]
+        },
+        {
+            "name": "archives",
+            "extensions": ["tar", "gz", "xz", "7z", "zip", "rar", "bz2"]
+        },
+        {
+            "name": "documents",
+            "extensions": ["pdf", "doc", "docx", "txt", "css", "js", "html", "xml", "json"]
+        },
+        {
+          "name": "images",
+          "extensions": ["png", "svg", "jpg", "tiff", "psd", "xcf", "gif", "ico"]  
+        },
+        {
+            "name": "fonts",
+            "extensions": ["ttf", "otf"]
+        },
+        {
+            "name": "videos",
+            "extensions": ["mp4", "webm", "mkv", "avi", "wmv", "mov"]
+        },
+        {
+            "name": "music",
+            "extensions": ["flac", "mp3", "wma"]
+        },
+        {
+            "name": "apps",
+            "extensions": ["appimage", "bin", "exe"]
+        }
+    ]
+}
